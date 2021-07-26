@@ -24,4 +24,4 @@
  - 학습이 완료된 모델을 통해 자동으로 타겟을 리드하고 사용자가 발사결정을 하여 발사하는 모드 제작 (Mode B)
  - 학습이 완료된 모델과 별개로 사용자가 발사할 탄환의 각도 발사타이밍을 결정해 발사하는 모드 제작 (Mode C)
  - PyQt5를 활용하여 모드를 바꿀 수 있게 하며 테스트를 시각적으로 진행할 수 있도록 제작
-<img src="https://user-images.githubusercontent.com/87750521/127050005-22fe69e8-4593-4978-91f0-ae887313833f.png" width="900" height="300">
+<img src="https://user-images.githubusercontent.com/87750521/127050005-22fe69e8-4593-4978-91f0-ae887313833f.png" width="1000" height="300">
